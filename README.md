@@ -1,5 +1,7 @@
 # stock-advisor
 
+![alt text](image.png)
+
 Here is the combined diagram. The research chain sits inside the dashed container, and the data agent runs in parallel with it.
 
 
